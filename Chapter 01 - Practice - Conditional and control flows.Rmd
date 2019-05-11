@@ -505,6 +505,8 @@ In the editor, we've coded two values beforehand: `li` and `fb`, denoting the nu
 li <- 15
 fb <- 9
 
+
+
 # Code the control-flow construct
 if (li >= 15 & fb >= 15) {
   sms <- 2 * (li + fb)
