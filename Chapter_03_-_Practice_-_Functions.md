@@ -56,6 +56,8 @@ In the next exercises, you'll be learning how to use the `mean()` function with 
 args(mean)
 ```
 
+
+
 **Great! That wasn't too hard, was it? Take a look at the documentation and head over to the next exercise.**
 
 ### Use a function
